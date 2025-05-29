@@ -13,7 +13,7 @@ def question_generator():
     elif select_operator == '-':
         return a - b
     else :
-        a * b
+      return  a * b
  
 quetion_number_limit = 5
 quetion_number = 0
